@@ -1,4 +1,4 @@
-# Unique url (signed url) package for Laravel.
+# Unique (signed) URL package for Laravel.
 
 [![Version](https://poser.pugx.org/akaunting/signed-url/v/stable.svg)](https://github.com/akaunting/signed-url/releases)
 [![StyleCI](https://styleci.io/repos/102290249/shield?style=flat&branch=master)](https://styleci.io/repos/102290249)

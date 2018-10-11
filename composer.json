@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Akaunting\\SignedUrl\\": ".\src"
+            "Akaunting\\SignedUrl\\": "./src"
         }
     },
     "extra": {

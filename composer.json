@@ -1,6 +1,6 @@
 {
     "name": "akaunting/signed-url",
-    "description": "Unique url oackage for Laravel",
+    "description": "Signed (unique) URL package for Laravel.",
     "keywords": [
         "laravel",
         "signed",

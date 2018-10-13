@@ -18,7 +18,7 @@ class Provider extends ServiceProvider
             __DIR__ . '/Config/signed-url.php' => config_path('signed-url.php')
         ], 'signed-url');
 
-        $this->app->singleton('signed-url', function () use ($app) {
+        $this->app->singleton('signed-url', function ($app) {
             return new SignedUrl(
                 config('signed-url.signatureKey'),
                 config('signed-url.parameters.expires'),

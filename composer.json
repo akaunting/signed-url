@@ -24,10 +24,6 @@
         "illuminate/support": ">=5.2 <5.6.12",
         "illuminate/http": ">=5.2 <5.6.12"
     },
-    "require-dev": {
-        "orchestra/testbench": "~3.4.4|~3.5.0|~3.6.0|~3.7.0",
-        "phpunit/phpunit": "5.7.*"
-    },
     "autoload": {
         "psr-4": {
             "Akaunting\\SignedUrl\\": "./src"
